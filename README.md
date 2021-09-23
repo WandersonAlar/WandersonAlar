@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @WandersonAlar
 - 👀 I’m interested in c#, javascript and survival games!
 - 🌱 I’m currently learning eletronics(arduino and stuff)
-- 📫 Reach me on discord Fanguz#3814 or on my e-mail anderson_alar@outlook.com
+- 📫 Reach me on discord **Fanguz#3814** or on my e-mail anderson_alar@outlook.com
